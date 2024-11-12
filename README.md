@@ -1,6 +1,6 @@
- # VIRTUAL MACHINE CREATION IN LINUX
+ # RELATIONAL DATABASE SERVICE CREATION IN AMAZON
   ## AIM
-       To Install Virtualbox / VMware Workstation with different flavours of linux.
+       To Relational Database Service Creation in Amazon.
 ## PROBLEM STATEMENT
     Explain about the Experiment.
 
